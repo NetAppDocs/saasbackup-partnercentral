@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: partnercentral_using_support.html
+keywords:
+summary:
+---
+
+= Using Support
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+//
+// This file was created with NDAC Version 2.0 (August 17, 2020)
+//
+// 2021-03-22 15:31:57.053080
+//
+
+[.lead]
+The *Support* view provides different types of support resources such as access to *Knowledge Base* articles, *SaaS Backup Community*, the *User Guide*, and *Trust Center*. You can also provide feedback and ask questions from the *Support* view. 
