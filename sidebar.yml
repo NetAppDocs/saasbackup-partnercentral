@@ -1,41 +1,31 @@
 entries:
   - title: Partner Central
     entries:
-      - title: Overview
-        url: /partnercentral_overview.html
-      - title: Registering as a partner
-        url: /partnercentral_registering_as_a_partner.html
-      - title: Using the dashboard
+      - title: NetApp SaaS Backup Partner Central documentation
+        url: /index.html
+      - title: Release notes
         entries:
-          - title: Overview
-            url: /partnercentral_using_the_dashboard_overview.html
-          - title: Statistics
-            url: /partnercentral_statistics.html
-          - title: Customers
-            url: /partnercentral_customers.html
-          - title: What’s New
-            url: /partnercentral_what’s_new.html
-      - title: Adding and managing customers
-        url: /partnercentral_adding_and_managing_customers.html
-      - title: Monitoring
-        url: /partnercentral_monitoring.html
-      - title: Generating Reports
-        url: /partnercentral_generating_reports.html
-      - title: Using Support
-        url: /partnercentral_using_support.html
-      - title: Using Settings
+        - title: New features and updates
+          url: /partnercentral_reference_new.html
+        - title: Known problems and limitations
+          url: /partnercentral_reference_limitations.html
+      - title: Sign up for Partner Central
+        url: /partnercentral_task_register.html
+      - title: Add and manage customers
+        url: /partnercentral_task_add_and_manage_customers.html
+      - title: Monitor customer jobs
+        url: /partnercentral_task_monitor.html
+      - title: Generate reports
+        url: /partnercentral_task_generate_reports.html
+      - title: Manage settings
         entries:
-          - title: Overview
-            url: /partnercentral_using_settings_overview.html
-          - title: Partner Info
-            url: /partnercentral_partner_info.html
-          - title: Modifying Notifications
-            url: /partnercentral_modifying_notifications.html
-          - title: Managing Roles
-            url: /partnercentral_managing_roles.html
-          - title: Managing Keys
-            url: /partnercentral_managing_keys.html
-          - title: Global Settings (coming soon)
-            url: /partnercentral_global_settings_@coming_soon@.html
-      - title: Limitations
-        url: /partnercentral_limitations.html
+        - title: Manage notifications
+          url: /partnercentral_task_manage_notifications.html
+        - title: Manage roles
+          url: /partnercentral_task_manage_roles.html
+        - title: Manage keys
+          url: /partnercentral_task_manage_keys.html
+      - title: Statistics
+        url: /partnercentral_reference_statistics.html
+      - title: Where to get help and find information
+        url: /partnercentral_reference_get_help_find_info.html

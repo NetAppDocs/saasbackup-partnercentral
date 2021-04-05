@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: partnercentral_task_generate_reports.html
+keywords: saas backup, partner central, generate, reports,
+summary: In Partner Central, you can generate reports for license usage, storage usage, job statistics, activity, audits, and renewals.
+---
+
+= Generate Reports
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+In SaaS Backup Partner Central, you can generate reports for license usage, storage usage, job statistics, activity, audits, and renewals.
+
+.Steps
+. From the dashboard, click *Reports* on the left.
+image:reports_page.png[reports page]
+. Select the category for which you want to generate a report.
+
+* *License Usage*
+* *Storage Usage*
+* *Job Statistics*
+* *Activity Report*
+* *Audit Report*
+* *Renewal Report*
+
+. Click *Generate* under the category.
+Reports are generated in CSV format.
