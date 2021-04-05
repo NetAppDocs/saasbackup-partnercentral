@@ -1,0 +1,75 @@
+---
+sidebar: sidebar
+permalink: partnercentral_task_add_and_manage_customers.html
+keywords: saas backup, partner central, microsoft 365, customer, customers, add, manage, delete
+summary: You can add and manage your customers in SaaS Backup Partner Central.
+---
+
+= Add, delete, and manage customers
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can add and delete customers in SaaS Backup Partner Central. To manage customer data, you'll use the SaaS Backup for Microsoft 365 user interface.
+
+If you want to add an existing tenant from SaaS Backup for Microsoft 365 into Partner Central, contact SaaS Backup Support at saasbackupsupport@netapp.com.
+
+== Add a customer
+
+.Steps
+
+. From the dashboard, click *Customers* on the left.
+image:dashboard_select_customer_view.png[dashboard select customer view]
+. On the *Customer List* screen, click image:add_customer_icon.png[add customer icon] to add a new customer.
+image:add_customer_screen.png[add customer screen]
+. In the pop up, click on the Office 365 icon to create a new customer subscription.
+. Enter the email address and password for your Microsoft 365 global administrator service account, and then click *Sign in*.
+. A list of the permissions requested by SaaS Backup for Microsoft 365 is displayed.
+  Click *Accept*.
+  image:permissions.png[permissions]
+. Back in Partner Central, click image:add_icon.png[add icon] under *Action* in the *Customer List* to complete *Customer Signup*.
+image:complete_customer_signup.png[click add icon to complete customer sign up]
+. Enter the requested user information.
+image:complete_customer_signup_window.png[complete customer sign up]
++
+* Select subscription type:
+** If this is a trial subscription, enter the activation code.
++
+** If this is a licensed subscription, enter your NetApp SSO and product serial number.
++
+* Select your storage under *Storage Selection*.
++
+If you are using storage provided by SaaS Backup:
+
+.. Click *SaaS Backup Provided Storage*.
+.. Select the *Amazon S3* or *Azure Blob* storage option.
+.. Select the *AWS S3* or *Azure Blob* region for your backup. You should select the region that is the closest to the physical location of the data you are backing up.
+. Click *Create*.
+  A status update appears on the right side which reads “Customer Sign up In-Progress.” When the status update is finished, the status changes to “Customer Sign up completed” and the status becomes Active.
+
+== Delete a customer
+
+.Steps
+. From the dashboard, click *Customers* on the left.
+image:dashboard_select_customer_view.png[dashboard select customer view]
+. Find the customer you wish to delete in the customer list. Click image:delete_icon_red.png[delete icon] to delete the customer.
+image:delete_customer.png[delete customer]
+
+== Manage customer data
+After you add new customers, you can view customer details such as the customer name, status, and total number of jobs from the dashboard in Partner Central.
+image:dashboard_customers_view.png[dashboard customers view]
+
+To manage customer data, you'll use the SaaS Backup for Microsoft 365 user interface.
+
+.Steps
+
+. Click image:return_icon.png[return icon] to redirect to the SaaS Backup for Microsoft 365 user interface to manage customer data.
+image:redirect_customer_saasbackup.png[redirect to SaaS Backup for Microsoft 365]
++
+To return to Partner Central, click *Partner Central* under the customer’s name on the left side of the SaaS Backup for Microsoft 365 user interface.
+image:return_partner_central.png[return to Partner Central]
+
+For information about how to use SaaS Backup for Microsoft 365, go to link:https://docs.netapp.com/us-en/saasbackupO365[NetApp SaaS Backup for Microsoft 365 online documentation].

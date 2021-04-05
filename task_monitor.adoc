@@ -1,0 +1,41 @@
+---
+sidebar: sidebar
+permalink: partnercentral_task_monitor.html
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs
+summary: You can monitor SaaS Backup for Microsoft 365 backup, sync, and restore jobs for your customers in SaaS Backup Partner Central.
+---
+
+= Monitor customer jobs
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can monitor SaaS Backup for Microsoft 365 backup, sync, and restore jobs for your customers in SaaS Backup Partner Central.
+
+.Steps
+. From the dashboard, click *Monitoring*.
+image:monitoring.png[monitoring page]
++
+In *Monitoring*, you can see job history for your customers in two separate tabs: *Running Jobs* and *Completed Jobs*.
+. You can filter *Running Jobs* and *Completed Jobs* by job type, service type, domain name, and status.
+.. To filter by job type, click *Filter* under *Job type* and then select the job type.
+image:filter_job_type.png[filter by job type]
++
+*Now* job types refer to on demand jobs.
+
+.. To filter by service type, click *Filter* under *Service type* and then select the service.
++
+Select the service:
+
+* Exchange Online
+* OneDrive for Business
+* SharePoint Online
+* Office 365 Groups
++
+.. To filter by customer, click *Filter* under *Domain name* and then select or search for the customer domain.
+image:filter_customer_domain.png[filter by customer domain]
+.. To filter by status, click *Filter* under *Status* and then select the status.
+image:filter_job_status.png[filter by job status]

@@ -1,0 +1,18 @@
+---
+sidebar: sidebar
+permalink: partnercentral_reference_limitations.html
+keywords: saas backup, partner central, microsoft 365, problems, limitations
+summary: A list of known problems and limitations.
+---
+
+= Known problems and limitations
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The following limitation exists:
+
+* Partners are unable to onboard tenants based on delegated permissions.

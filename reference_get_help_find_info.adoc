@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: partnercentral_reference_get_help_find_info.html
+keywords: where to find more information, help, support, feedback, ask questions
+summary: You can get help, find more information, and provide feedback in the NetApp SaaS Backup Partner Central interface.
+---
+
+= Where to get help and find more information
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+You can get help and find more information in the NetApp SaaS Backup Partner Central interface in  *Support*.
+
+image:support_page.png[Support options]
+
+*Support* gives you access to the following resources:
+
+* *Knowledge Base* articles
+* *Communities*
+* *User Manual*
+* *Feedback*
+* *Trust Center*
+* *Contact Us*
