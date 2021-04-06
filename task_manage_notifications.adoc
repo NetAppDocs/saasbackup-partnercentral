@@ -31,6 +31,7 @@ image:settings_notifications.png[settings dropdown menu select notifications]
 . In *Notification Management*, you can add, modify, and delete notifications.
 +
 image:notification_management_screen.png[notification management screen]
++
 .. To add notifications, click image:add_notification_icon.png[add notification icon] to add notifications to a user.
 +
 In *Add Notification*, enter the email address for the user you want to add and then customize notifications.

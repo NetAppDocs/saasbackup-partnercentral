@@ -13,7 +13,7 @@ summary: You can monitor SaaS Backup for Microsoft 365 backup, sync, and restore
 :imagesdir: ./media/
 
 [.lead]
-You can monitor SaaS Backup for Microsoft 365 backup, sync, and restore jobs for your customers in SaaS Backup Partner Central.
+You can monitor backup, sync, and restore jobs for your SaaS Backup for Microsoft 365 customers in SaaS Backup Partner Central.
 
 .Steps
 . From the dashboard, click *Monitoring*.

@@ -31,7 +31,7 @@ image:add_customer_screen.png[add customer screen]
 . Enter the email address and password for your Microsoft 365 global administrator service account, and then click *Sign in*.
 . A list of the permissions requested by SaaS Backup for Microsoft 365 is displayed.
   Click *Accept*.
-  +
+
   image:permissions.png[permissions]
 . Back in Partner Central, click image:add_icon.png[add icon] under *Action* in the *Customer List* to complete *Customer Signup*.
 +
@@ -67,7 +67,7 @@ image:delete_customer.png[delete customer]
 
 == Manage customer data
 After you add new customers, you can view customer details such as the customer name, status, and total number of jobs from the dashboard in Partner Central.
-+
+
 image:dashboard_customers_view.png[dashboard customers view]
 
 To manage customer data, you'll use the SaaS Backup for Microsoft 365 user interface.

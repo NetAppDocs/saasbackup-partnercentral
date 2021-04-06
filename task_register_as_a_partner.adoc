@@ -18,11 +18,13 @@ In NetApp SaaS Backup Partner Central, you can register as a partner. After you 
 .Steps
 
 . Go to link:https://saasbackup.netapp.com/partner-central/[SaaS Backup Partner Central].
++
 image:partner_sign_in_page.png[Partner Central sign in page]
 . Select your region from the drop-down menu. The default region is the US.
 . To sign up, read and agree to the *Terms of Services*.
 . Click *NetApp SSO*.
 . On the NetApp sign in page, sign in with your NetApp SSO credentials.
 . Enter the requested registration information.
++
 image:registration_info_sign_up.png[registration page]
 . Click *Register*.

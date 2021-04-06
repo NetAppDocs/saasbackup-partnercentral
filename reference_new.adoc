@@ -16,7 +16,7 @@ summary: SaaS Backup Partner Central regularly introduces a new release to bring
 The following new features and updates have been added to this release of NetApp SaaS Backup Partner Central.
 
 Visit the *What's New* view in the Partner Central dashboard to see a feed of new updates, how-to videos, and information about the health of your services.
-+
+
 image:whats_new.png[what's new]
 
 == April 2021
