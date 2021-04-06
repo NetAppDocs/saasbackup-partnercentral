@@ -17,11 +17,13 @@ You can monitor SaaS Backup for Microsoft 365 backup, sync, and restore jobs for
 
 .Steps
 . From the dashboard, click *Monitoring*.
++
 image:monitoring.png[monitoring page]
 +
 In *Monitoring*, you can see job history for your customers in two separate tabs: *Running Jobs* and *Completed Jobs*.
 . You can filter *Running Jobs* and *Completed Jobs* by job type, service type, domain name, and status.
 .. To filter by job type, click *Filter* under *Job type* and then select the job type.
++
 image:filter_job_type.png[filter by job type]
 +
 *Now* job types refer to on demand jobs.
@@ -36,6 +38,8 @@ Select the service:
 * Office 365 Groups
 +
 .. To filter by customer, click *Filter* under *Domain name* and then select or search for the customer domain.
++
 image:filter_customer_domain.png[filter by customer domain]
 .. To filter by status, click *Filter* under *Status* and then select the status.
++
 image:filter_job_status.png[filter by job status]

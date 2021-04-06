@@ -17,6 +17,7 @@ NetApp SaaS Backup Partner Central is an interface which helps NetApp partners m
 == Discover what's new
 * link:partnercentral_reference_new.html[Release notes]
 * For product updates, how-to videos, and information about the health of your services, go to the *What's New* dashboard view.
++
 image:whats_new.png[Partner Central *What's New*]
 
 == Get started
@@ -25,6 +26,7 @@ image:whats_new.png[Partner Central *What's New*]
 
 == Get help, find more information, and provide feedback
 * For access to different support resources, go to *Support* in the Partner Central user interface.
++
 image:support_page.png[Support page]
 +
 The *Support* page provides access to *Knowledge Base* articles, *Communities*, the *User Manual* for SaaS Backup for Microsoft 365, and the *Trust Center*. You can also provide feedback and ask questions if you select *Contact Us*.

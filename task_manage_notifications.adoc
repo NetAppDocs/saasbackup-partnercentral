@@ -26,11 +26,15 @@ You can enable or disable the following notifications:
 .Steps
 . From the dashboard, click image:settings_icon.png[settings icon].
 . Select *Notifications* from the dropdown menu.
++
 image:settings_notifications.png[settings dropdown menu select notifications]
 . In *Notification Management*, you can add, modify, and delete notifications.
++
 image:notification_management_screen.png[notification management screen]
 .. To add notifications, click image:add_notification_icon.png[add notification icon] to add notifications to a user.
 +
-In the *Add notifications* screen, enter the email address for the user you want to add and then customize notifications. image:customer_notifications_screen.png[customize notifications]
+In *Add Notification*, enter the email address for the user you want to add and then customize notifications.
++
+image:add_notifications_screen.png[customize notifications]
 .. To modify notifications, click image:pencil_icon.png[pencil icon].
 .. To delete notifications, click image:delete_icon_blue.png[delete icon].

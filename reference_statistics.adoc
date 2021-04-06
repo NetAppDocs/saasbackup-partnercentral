@@ -13,7 +13,7 @@ summary: In SaaS Backup Partner Central, the *Statistics* screen shows statistic
 :imagesdir: ./media/
 
 [.lead]
-In SaaS Backup Partner Central, the *Statistics* screen shows statistics to help you manage your SaaS Backup for Microsoft 365 customers.
+In SaaS Backup Partner Central, the *Statistics* view shows statistics to help you manage your SaaS Backup for Microsoft 365 customers.
 
 Numerical statistics appear for the following:
 
