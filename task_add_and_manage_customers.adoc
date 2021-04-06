@@ -22,17 +22,22 @@ If you want to add an existing tenant from SaaS Backup for Microsoft 365 into Pa
 .Steps
 
 . From the dashboard, click *Customers* on the left.
-image:dashboard_select_customer_view.png[dashboard select customer view]
++
+image:dashboard_customer_view.png[dashboard customer view]
 . On the *Customer List* screen, click image:add_customer_icon.png[add customer icon] to add a new customer.
++
 image:add_customer_screen.png[add customer screen]
 . In the pop up, click on the Office 365 icon to create a new customer subscription.
 . Enter the email address and password for your Microsoft 365 global administrator service account, and then click *Sign in*.
 . A list of the permissions requested by SaaS Backup for Microsoft 365 is displayed.
   Click *Accept*.
+  +
   image:permissions.png[permissions]
 . Back in Partner Central, click image:add_icon.png[add icon] under *Action* in the *Customer List* to complete *Customer Signup*.
++
 image:complete_customer_signup.png[click add icon to complete customer sign up]
 . Enter the requested user information.
++
 image:complete_customer_signup_window.png[complete customer sign up]
 +
 * Select subscription type:
@@ -54,12 +59,15 @@ If you are using storage provided by SaaS Backup:
 
 .Steps
 . From the dashboard, click *Customers* on the left.
-image:dashboard_select_customer_view.png[dashboard select customer view]
++
+image:dashboard_customer_view.png[dashboard customer view]
 . Find the customer you wish to delete in the customer list. Click image:delete_icon_red.png[delete icon] to delete the customer.
++
 image:delete_customer.png[delete customer]
 
 == Manage customer data
 After you add new customers, you can view customer details such as the customer name, status, and total number of jobs from the dashboard in Partner Central.
++
 image:dashboard_customers_view.png[dashboard customers view]
 
 To manage customer data, you'll use the SaaS Backup for Microsoft 365 user interface.
@@ -67,9 +75,11 @@ To manage customer data, you'll use the SaaS Backup for Microsoft 365 user inter
 .Steps
 
 . Click image:return_icon.png[return icon] to redirect to the SaaS Backup for Microsoft 365 user interface to manage customer data.
++
 image:redirect_customer_saasbackup.png[redirect to SaaS Backup for Microsoft 365]
 +
 To return to Partner Central, click *Partner Central* under the customer’s name on the left side of the SaaS Backup for Microsoft 365 user interface.
++
 image:return_partner_central.png[return to Partner Central]
 
 For information about how to use SaaS Backup for Microsoft 365, go to link:https://docs.netapp.com/us-en/saasbackupO365[NetApp SaaS Backup for Microsoft 365 online documentation].

@@ -17,6 +17,7 @@ In SaaS Backup Partner Central, you can generate reports for license usage, stor
 
 .Steps
 . From the dashboard, click *Reports* on the left.
++
 image:reports_page.png[reports page]
 . Select the category for which you want to generate a report.
 
