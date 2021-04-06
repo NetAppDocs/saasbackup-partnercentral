@@ -28,6 +28,7 @@ image:key_management_screen.png[key management screen]
 . In *Add Key*, do the following:
 +
 image:add_key_screen.png[add key screen]
++
 .. Select the user.
 .. Add a description.
 .. Select expiry.

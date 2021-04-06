@@ -34,7 +34,7 @@ image:add_user_role_management.png[add user role management screen]
 .. Select the role for the user.
 
 * *Global Partner Admin* – creates other global partners and has full control of all roles.
-* *Full Admin* – has full control of all the roles except global partners.
+* *Full Admin* – has full control of all roles except global partners.
 * *Config Admin* – adds and deletes customers.
 +
 . To modify a user's role, click image:pencil_icon.png[pencil icon].
