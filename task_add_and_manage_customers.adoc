@@ -31,8 +31,6 @@ image:add_customer_screen.png[add customer screen]
 . Enter the email address and password for your Microsoft 365 global administrator service account, and then click *Sign in*.
 . A list of the permissions requested by SaaS Backup for Microsoft 365 is displayed.
   Click *Accept*.
-
-  image:permissions.png[permissions]
 . Back in Partner Central, click image:add_icon.png[add icon] under *Action* in the *Customer List* to complete *Customer Signup*.
 +
 image:complete_customer_signup.png[click add icon to complete customer sign up]
