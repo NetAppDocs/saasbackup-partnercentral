@@ -18,5 +18,3 @@ The following new features and updates have been added to this release of NetApp
 Go to the *What's New* view in the Partner Central dashboard to see a feed of new updates, how-to videos, and information about the health of your services.
 
 image:whats_new.png[what's new]
-
-== April 2021

@@ -25,6 +25,7 @@ image:partner_sign_in_page.png[Partner Central sign in page]
 . Click *NetApp SSO*.
 . On the NetApp sign in page, sign in with your NetApp SSO credentials.
 . Enter the requested registration information.
+To request an activation code, contact SaaS Backup product management. 
 +
-image:registration_info_sign_up.png[registration page]
+image:register_sign_up.png[registration page]
 . Click *Register*.
