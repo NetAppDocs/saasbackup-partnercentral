@@ -1,0 +1,31 @@
+entries:
+  - title: Partner Central
+    entries:
+      - title: NetApp SaaS Backup Partner Central documentation
+        url: /index.html
+      - title: Release notes
+        entries:
+        - title: New features and updates
+          url: /partnercentral_reference_new.html
+        - title: Known problems and limitations
+          url: /partnercentral_reference_limitations.html
+      - title: Sign up for Partner Central
+        url: /partnercentral_task_register.html
+      - title: Add and manage customers
+        url: /partnercentral_task_add_and_manage_customers.html
+      - title: Monitor customer jobs
+        url: /partnercentral_task_monitor.html
+      - title: Generate reports
+        url: /partnercentral_task_generate_reports.html
+      - title: Manage settings
+        entries:
+        - title: Manage notifications
+          url: /partnercentral_task_manage_notifications.html
+        - title: Manage roles
+          url: /partnercentral_task_manage_roles.html
+        - title: Manage keys
+          url: /partnercentral_task_manage_keys.html
+      - title: Statistics
+        url: /partnercentral_reference_statistics.html
+      - title: Where to get help and find information
+        url: /partnercentral_reference_get_help_find_info.html

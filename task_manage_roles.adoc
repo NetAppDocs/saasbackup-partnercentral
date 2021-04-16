@@ -1,0 +1,41 @@
+---
+sidebar: sidebar
+permalink: partnercentral_task_manage_roles.html
+keywords: saas backup, partner central, role management, manage, role, roles
+summary: You can modify, add, and assign different user roles in SaaS Backup Partner Central.
+---
+
+= Manage roles
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+In SaaS Backup Partner Central, you can modify, add, and assign different user roles.
+
+The default email in *Role Management* is the partner email.
+
+.Steps
+. From the dashboard, click image:settings_icon.png[settings icon].
+. Select *Role Management* from the dropdown menu.
++
+image:settings_role_management.png[settings dropdown menu select role management]
+. In *Role Management*, you can add, modify, and delete roles.
++
+image:role_management_screen.png[role management screen]
+. To add a user, click image:add_notification_icon.png[add icon].
++
+In *Add User*, enter the requested information.
++
+image:add_user_role_management.png[add user role management screen]
++
+.. Select the role for the user.
+
+* *Global Partner Admin*: Can create other global partners and has full control of all roles.
+* *Full Admin*: Has full control of all roles except global partners.
+* *Config Admin*: Can add and delete customers.
++
+. To modify a user's role, click image:pencil_icon.png[pencil icon].
+. To delete a user, click image:delete_icon_blue.png[delete icon].
