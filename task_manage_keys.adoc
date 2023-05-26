@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: partnercentral_task_manage_keys.html
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell
-summary: You can add and manage keys for enhanced security in Partner Central. You can also find support for the PowerShell cmdlet interface.
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: You can add and manage keys for enhanced security in Partner Central.
 ---
 
 = Manage Keys
@@ -13,7 +13,7 @@ summary: You can add and manage keys for enhanced security in Partner Central. Y
 :imagesdir: ./media/
 
 [.lead]
-You can add and manage keys for enhanced security in Partner Central from the *Key Management* setting. You can also find support for the PowerShell cmdlet interface.
+You can add and manage keys for enhanced security in Partner Central from the *Key Management* setting. 
 
 == Add keys
 
@@ -36,15 +36,4 @@ image:add_key_screen.png[add key screen]
 A box appears with the message “Successfully generated the key.”
 . Click image:eye_show_key_icon.png[show key icon] to show the unencrypted key and click image:eye_hide_key_icon.png[hide key icon] to hide the unencrypted key.
 
-== Download PowerShell
-
-.Steps
-. From the dashboard, click image:settings_icon.png[settings icon].
-. Select *Key Management* from the dropdown menu.
-+
-image:settings_key_management.png[settings dropdown menu key management]
-. To download PowerShell, click image:download_powershell_icon.png[download PowerShell icon].
-. Install the downloaded program.
-. After the program installation, double click the icon for *SaaS Backup PowerShell* on your desktop to start the PowerShell cmdlet.
-
-For more information about using the NetApp SaaS Backup PowerShell module, refer to the link:https://fieldportal.netapp.com/content/1255854[NetApp SaaS Backup PowerShell Guide (TR-4873)].
+// 2023-05-26, OTHERDOC-17
